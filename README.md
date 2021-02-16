@@ -1,6 +1,10 @@
 # country_house
+# County-Info-App
 
-A new Flutter application.
+Flutter app to see Countries and its infromation.
+
+2 API Integrated - REST API(All Countries) & Google Maps API.
+  Paste your API_Key in AnroidManifest.xml -> <application -> <meta-data....value:"API_Key"/>
 
 ## Getting Started
 
