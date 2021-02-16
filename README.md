@@ -1,4 +1,3 @@
-# country_house
 # County-Info-App
 
 Flutter app to see Countries and its infromation.
